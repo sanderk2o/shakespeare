@@ -1,0 +1,10 @@
+# Ignore folders
+venv
+__pycache__
+general
+
+# Ignore specific files
+sk.json
+.idea
+
+# Ignore type specific files
